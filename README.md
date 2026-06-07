@@ -1,16 +1,16 @@
-<div align="center">
-  <img src="./.github/cover.png" alt="Pequi — plataforma de acompanhamento da hanseníase" width="100%" />
-</div>
-
 <br />
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Logo Pequi" height="48" />
+  <img src="./.github/logo.svg" alt="Logo Pequi" height="48" />
   <h1>Pequi</h1>
   <p><strong>Plataforma de acompanhamento contínuo da hanseníase — do check-in diário ao painel do profissional.</strong></p>
 </div>
 
 ---
+
+<div align="center">
+  <img src="./.github/cover.png" alt="Pequi — plataforma de acompanhamento da hanseníase" width="100%" />
+</div>
 
 ## O problema
 
